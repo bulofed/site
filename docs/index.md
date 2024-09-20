@@ -3,3 +3,5 @@
 ![Drapeau](./img/KN-flag.jpg)
 
 <small>Rédigé par: Butor Loïc</small>
+
+Contrairement à ce que l'on lit dans les médias...
