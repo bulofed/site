@@ -1,4 +1,5 @@
 site_name: Sur la Corée
+repo_url: https://github.com/bulofed/site
 theme:
     name: simple-blog
 nav:
