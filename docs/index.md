@@ -60,9 +60,11 @@ Syngman Rhee, le premier président de la Corée du Sud, a établi un régime au
 
 Après un coup d'État militaire en 1961, le général Park Chung-hee a pris le pouvoir et instauré une dictature qui a duré jusqu’à son assassinat en 1979. Bien que Park soit souvent crédité pour avoir jeté les bases de l'industrialisation rapide de la Corée du Sud (le "miracle économique sud-coréen"), son règne fut aussi marqué par une répression violente.
 
-    Répression de la dissidence : Toute opposition au régime était sévèrement réprimée. Les dissidents politiques, les intellectuels et les syndicalistes étaient fréquemment arrêtés, torturés ou même exécutés.
-    Contrôle des médias : Les médias étaient strictement contrôlés et censurés. Toute critique du régime pouvait entraîner des représailles sévères.
-    Yushin Constitution (1972) : Park a modifié la constitution pour étendre son pouvoir indéfiniment et a mis en place un régime quasi totalitaire sous le prétexte de lutter contre la menace communiste.
+- Répression de la dissidence : Toute opposition au régime était sévèrement réprimée. Les dissidents politiques, les intellectuels et les syndicalistes étaient fréquemment arrêtés, torturés ou même exécutés.
+
+- Contrôle des médias : Les médias étaient strictement contrôlés et censurés. Toute critique du régime pouvait entraîner des représailles sévères.
+
+- Yushin Constitution (1972) : Park a modifié la constitution pour étendre son pouvoir indéfiniment et a mis en place un régime quasi totalitaire sous le prétexte de lutter contre la menace communiste.
 
 ### c. Chun Doo-hwan et le massacre de Gwangju (1980)
 
@@ -74,17 +76,17 @@ Cet événement a longtemps été occulté ou minimisé dans l’histoire offici
 
 Durant cette période, la Corée du Sud justifiait la répression intérieure par la menace communiste, en particulier celle de la Corée du Nord. Le régime sud-coréen, soutenu par les États-Unis dans le cadre de la guerre froide, utilisait l’anti-communisme comme une excuse pour écraser toute forme de dissidence interne.
 
-    Loi de sécurité nationale (1948) : Cette loi, toujours en vigueur aujourd'hui dans une forme modifiée, permettait au gouvernement sud-coréen d'accuser de "pro-communisme" toute personne critiquant le régime. De nombreuses arrestations, détentions arbitraires et exécutions étaient justifiées par cette loi, qui étouffait toute opposition politique.
+- Loi de sécurité nationale (1948) : Cette loi, toujours en vigueur aujourd'hui dans une forme modifiée, permettait au gouvernement sud-coréen d'accuser de "pro-communisme" toute personne critiquant le régime. De nombreuses arrestations, détentions arbitraires et exécutions étaient justifiées par cette loi, qui étouffait toute opposition politique.
 
-    Lavages de cerveau et rééducation : Dans les écoles et à travers les médias, une propagande anti-communiste intense était diffusée, présentant la Corée du Nord comme un ennemi barbare, tout en justifiant la répression et les abus en Corée du Sud. Toute critique du gouvernement était assimilée à une trahison et pouvait mener à l'arrestation.
+- Lavages de cerveau et rééducation : Dans les écoles et à travers les médias, une propagande anti-communiste intense était diffusée, présentant la Corée du Nord comme un ennemi barbare, tout en justifiant la répression et les abus en Corée du Sud. Toute critique du gouvernement était assimilée à une trahison et pouvait mener à l'arrestation.
 
 ## 7. Comparaison avec la Corée du Nord : une perspective nuancée
 
 Si la Corée du Nord a souvent été dénoncée pour ses violations des droits humains et son régime autoritaire sous Kim Il-sung, il est important de comprendre que la Corée du Sud a elle aussi, durant une grande partie de son histoire moderne, exercé une répression brutale et systématique.
 
-    Égalité sociale : Dans les premières décennies suivant la guerre de Corée, la Corée du Nord bénéficiait d'un soutien important de la part de l'Union soviétique et de la Chine, ce qui lui permit de construire une société relativement égalitaire, avec un accès généralisé à l’éducation et aux soins de santé. Pendant cette même période, la Corée du Sud était encore très inégalitaire, avec de grandes disparités économiques et sociales.
+- Égalité sociale : Dans les premières décennies suivant la guerre de Corée, la Corée du Nord bénéficiait d'un soutien important de la part de l'Union soviétique et de la Chine, ce qui lui permit de construire une société relativement égalitaire, avec un accès généralisé à l’éducation et aux soins de santé. Pendant cette même période, la Corée du Sud était encore très inégalitaire, avec de grandes disparités économiques et sociales.
 
-    Oppression et autoritarisme : Les deux pays étaient, dans les années 1960 et 1970, des régimes autoritaires. En Corée du Sud, cette répression était justifiée par la menace communiste et souvent encouragée par les États-Unis, qui voyaient en la Corée du Sud un rempart contre l'expansion du communisme en Asie.
+- Oppression et autoritarisme : Les deux pays étaient, dans les années 1960 et 1970, des régimes autoritaires. En Corée du Sud, cette répression était justifiée par la menace communiste et souvent encouragée par les États-Unis, qui voyaient en la Corée du Sud un rempart contre l'expansion du communisme en Asie.
 
 Il est important de différentier les deux types d'autoritarisme. Dans le nord, l'autorité vient du parti des prolétaires oppressive envers les bourgeois, tandis que dans le sud, l'autorité vient du parti des bourgeois oppressive envers les prolétaires.
 
