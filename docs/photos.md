@@ -6,4 +6,4 @@
 
 ![Status de Kim Il-sung](./img/status_kim.jpg)
 
-![StatueJuche](./img/statue_juche.jpg)
+![Status Juche](./img/status_juche.jpg)
