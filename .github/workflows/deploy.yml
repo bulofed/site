@@ -4,7 +4,7 @@ name: Deploy MkDocs site to GitHub Pages
 on:
   push:
     branches:
-      - main  # Remplacer par la branche principale de votre dépôt
+      - master
 
 jobs:
   build:
