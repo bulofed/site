@@ -3,4 +3,5 @@ repo_url: https://github.com/bulofed/site
 theme:
     name: simple-blog
 nav:
-  - Home: index.md
+  - index.md
+  - photos.md
