@@ -7,4 +7,3 @@
   <img src="./img/nuit_pyongyang.jpg" alt="Photo de nuit à Pyongyang" width="300px">
   <img src="./img/vue_juche.jpg" alt="Vue depuis la tour de Juche width="300px">
 </div>
-<figcaption>Photos de Pyongyang</figcaption>
